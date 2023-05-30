@@ -7,20 +7,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Weidows-projects/.github.git"
+    "url": "git+https://github.com/Hebau-Community/.github.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Weidows-projects/.github/issues"
+    "url": "https://github.com/Hebau-Community/.github/issues"
   },
-  "homepage": "https://github.com/Weidows-projects/.github#readme",
+  "homepage": "https://github.com/Hebau-Community/.github#readme",
   "dependencies": {
     "logo.svg": "1.0.1",
     "svgexport": "github:Weidows/svgexport"
   },
   "logo": {
-    "logo": "Weidows-pro-j",
+    "logo": "Hebau-Community",
     "font": "mk-zodnig-square.ttf",
     "fontSize": 96,
     "output": "./profile/logo.svg",
@@ -40,13 +40,19 @@
     "path4": {
       "fill": "#fb3f24"
     },
-    "path5": {
+    "path6": {
       "fill": "#3cc8f6"
     },
-    "path6": {
+    "path7": {
+      "fill": "#3cc8f6"
+    },
+    "path8": {
+      "fill": "#3cc8f6"
+    },
+    "path12": {
       "fill": "#67c5c4 "
     },
-    "path7": {
+    "path13": {
       "fill": "#67c5c4 "
     }
   }
